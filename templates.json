@@ -1,0 +1,7 @@
+{
+    "current-theme": "dark",
+    "templates": {
+        "light": "yt.html.j2",
+        "dark": "yt-dark.html.j2"
+    }
+}
